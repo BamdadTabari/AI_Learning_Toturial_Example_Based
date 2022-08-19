@@ -1,0 +1,2 @@
+# AI_Learning_Toturial_Example_Based
+this repository contains all my studies from first to last in AI Classification. With the "BitCoin Prediction" subject and python, also use TensorFlow, pandas, and matplotlib libraries for my work. Versions Are Sorted with Numbers and you can use it for learning AI from zero to hero. I described every part of the code and analyzed  AI methodologies in each part. you can see the result of each method 
